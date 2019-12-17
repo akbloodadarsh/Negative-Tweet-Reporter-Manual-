@@ -1,8 +1,4 @@
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import accuracy_score
 from sklearn import naive_bayes
-from sklearn.metrics import average_precision_score
-from sklearn.metrics import roc_auc_score
 
 
 def MultinomialNBAlgo(x_train_vft, y_train, x_test_vft, y_test, vec):
