@@ -1,8 +1,8 @@
 # Negative-Tweet-Reporter
 
 #### Follow The Steps
-### 1. Insert Your Twitter Credentials in TwitterCredentials.py
-### 2. Run the test.py
+### 1. Insert Your Twitter Credentials in `twitter_credentials.py`
+### 2. Run the `test.py`
 ### 3. Enter the hashtag you want to target.Ex:- #NameOfHashtag
 ### 4. Let the program fetch and analyse the tweets
 ### 5. When it will encouner a negative tweet it will ask for you to analyse the tweet and if in your perspective it is a negative tweet, you can press y to report it!
