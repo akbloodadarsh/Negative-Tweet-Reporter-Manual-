@@ -11,4 +11,4 @@
 #### How this is happening
 
 I have used training dataset to train a model using multinomial naive bayes,then we are fetching tweets 10 at a time(Their is a limit of 3200 because Twitter allows a maximum of 3200 tweets for extraction).Then we are using our tained model to analyse the tweets and if it encounter a negative tweet we are asking the user to analyse the tweet and if from his perspective the tweet is negative too,then he can verify it and the program will automatically report it!And the program will repeat the cycle.
-(The program is only fetching the tweets which are using english language) 
+(The program is only fetching the tweets which are using english language)
